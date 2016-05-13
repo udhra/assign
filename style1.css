@@ -1,0 +1,124 @@
+#header {
+  background-color: black;
+  color:blue ;
+  text-align:center;
+  padding: 5px;
+  width:90%
+}
+
+li {
+  display: inline;
+  padding-right: 50px;
+  color: blue;
+
+}
+ul a {
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+}
+ul a:hover {
+  text-decoration: underline;
+  font-size: 50px;
+  color: magenta;
+}
+.grid_9{
+  width:30%;
+  height:auto;
+  color: blue;
+  font-family: cursive;
+  font-size: 20px;
+  font-style: oblique;
+  text-align: justify;;
+  text-transform: capitalize;
+
+
+
+}
+
+ .img{
+  width:270px;
+  height:50%;
+    padding-right: 30px;
+}
+.img1{
+ width:270px;
+ height:50%;
+ padding-right: 30px;
+
+}
+.img2{
+ width:270px;
+ height:50%;
+ padding-right: 30px;
+}
+.fb
+{
+  float: right;
+  width:30px;
+  height:30px;
+}
+.tw
+{
+
+  float:right;
+  width:30px;
+  height:30px;
+}
+
+
+.primary
+{
+  float: left;
+  width:100px;
+  height:350px;
+  text-align: justify;
+    color:   #cc6633;
+
+  margin-left:50px;
+  margin-top: 50px;
+  margin-right: 70px;
+  margin-bottom: 10px;
+
+}
+.main
+{
+  float: left;
+  width:100px;
+  height:350px;
+    text-align: justify;
+      color:   #cc6633;
+      padding-right: 10px;
+      margin-left:60px;
+      margin-top: 50px;
+      margin-right: 70px;
+      margin-bottom: 10px;
+
+}
+.third
+{
+  float: left;
+  width:100px;
+  height:350px;
+    text-align: justify;
+    color:  #cc6633;
+      padding-right:  10px;
+      margin-left:50px;
+      margin-top: 50px;
+      margin-right: 70px;
+      margin-bottom: 10px;
+
+}
+
+.img16
+{
+  width: 95%
+}
+
+footer
+{
+  text-align: center;
+  background-color:green;
+width:88%;
+height:70px;
+}
